@@ -1,7 +1,7 @@
 #!/bin/sh
 
-NAME='ganarcrm_django'
-DJANGODIR=/webapps/mapchi/environment_3_8_2/djackets_django
+NAME='mapchecrm_django'
+DJANGODIR=/webapps/mapchi/environment_3_8_2/mapchecrm_django
 SOCKFILE=/webapps/mapchi/environment_3_8_2/run/gunicorn.sock
 USER=mapchiuser
 GROUP=webapps
